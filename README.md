@@ -1,7 +1,8 @@
+
 # devAminulkhan
 This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.
 <h1 align="center">Hi 👋, I'm MD. AMINUL Islam Khan</h1>
-<h3 align="center">A Professional Web developer from Bangladesh</h3>
+<h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaminulkhan&label=Profile%20views&color=0e75b6&style=flat" alt="devaminulkhan" /> </p>
 
