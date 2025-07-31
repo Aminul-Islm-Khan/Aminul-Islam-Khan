@@ -5,8 +5,7 @@
  <h1 align="left">Hi, I'm MD. AMINUL Islam Khan</h1>
 <h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devaminulkhan&label=Profile%20views&color=0e75b6&style=flat" alt="devaminulkhan" /> </p>
-
+ <a href="https://www.freelancer.com/u/devAminulkhan" target="_blank">@ devAminulkhan</a> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaminulkhan" alt="devaminulkhan" /></a> </p>
 
 - 🔭 I’m currently working on [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
