@@ -1,4 +1,4 @@
-
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGwOs6BeW_LEg/profile-displaybackgroundimage-shrink_350_1400/B4DZhim9ARHAAY-/0/1754001036584?e=1756944000&v=beta&t=F4hVvDn8Getb7tPn96cILK5IwsC5OFRTG3lyUWPL6Oc" class="logo-img" alt="">
 # devAminulkhan
 This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.
 <h1 align="center">Hi 👋, I'm MD. AMINUL Islam Khan</h1>
