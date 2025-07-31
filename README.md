@@ -41,6 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaminulkhan&show_icons=true&locale=en&layout=compact" alt="devaminulkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaminulkhan&show_icons=true&locale=en" alt="devaminulkhan" /></p>
-<button ><a href="https://dev.to/devaminulkhan" target="blank"></a>Green</button>
+<button ><a href="https://dev.to/devaminulkhan" target="blank" color"green"></a>Contuct Me</button>
 
 
