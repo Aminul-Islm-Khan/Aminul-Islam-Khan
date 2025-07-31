@@ -16,7 +16,7 @@ This repository contains a portfolio of professional Web Design, Web Development
 
 - 🤝 I’m looking for help with [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aminul-Islm-Khan](https://github.com/Aminul-Islm-Khan)
+- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/devAminulkhan)
 
 - 📝 I regularly write articles on [https://github.com/Aminul-Islm-Khan](https://github.com/Aminul-Islm-Khan)
 
