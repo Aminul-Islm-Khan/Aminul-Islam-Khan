@@ -1,8 +1,8 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG2E1Iw1avX4A/profile-displaybackgroundimage-shrink_350_1400/B4DZhitVNlGQAY-/0/1754002708167?e=1756944000&v=beta&t=ZvreS0AJhrMA3XQ8Ly4BsvCNqXTMK482TNULGYjkZI0" class="logo-img" alt="">
  <a href="https://www.freelancer.com/u/devAminulkhan" target="_blank">@ devAminulkhan</a> <br>
-<span style="color:#7ce8ff;">This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.</span>
-<h1 align="center">Hi <img width="288" height="288" alt="git hub" src="https://github.com/user-attachments/assets/4933ecf8-6599-4089-8c68-9d80e0a76187" />
-, I'm MD. AMINUL Islam Khan</h1>
+<span style=" color:#7ce8ff;">This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.</span>
+ <img width="288" height="288" alt="git hub" src="https://github.com/user-attachments/assets/4933ecf8-6599-4089-8c68-9d80e0a76187" />
+ <h1 align="center">Hi, I'm MD. AMINUL Islam Khan</h1>
 <h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaminulkhan&label=Profile%20views&color=0e75b6&style=flat" alt="devaminulkhan" /> </p>
