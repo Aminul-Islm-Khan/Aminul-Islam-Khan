@@ -1,2 +1,2 @@
 # devAminulkhan
-This repository showcases a collection of Web Development and WordPress customization projects by Aminul Islam Khan. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind.
+This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.
