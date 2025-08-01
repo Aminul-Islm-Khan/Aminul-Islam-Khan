@@ -3,7 +3,7 @@
 <span  color:#7ce8ff;">This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.</span> <br>
  <img width="150" height="150"  align="left" alt="git hub" src="https://github.com/user-attachments/assets/4933ecf8-6599-4089-8c68-9d80e0a76187"/> <br><br><br><br><br>
  <h1 align="left">Hi, I'm MD. AMINUL Islam Khan</h1>
-<h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks.</h3>
+<h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, Bootstrap, and modern frameworks.</h3>
 
  <a href="https://www.freelancer.com/u/devAminulkhan" target="_blank">@ devAminulkhan</a> 
 - 🔭 I’m currently working on [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
