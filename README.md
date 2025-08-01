@@ -28,11 +28,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/devaminulkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devaminulkhan" height="30" width="40" /></a>
+<a href="https://dev.to/devaminulkhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devaminulkhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md aminul islam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md aminul islam khan" height="30" width="40" /></a>
 <a href="https://fb.com/uzzal khan (md aminul islam khan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzzal khan (md aminul islam khan)" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/aminul2999islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aminul2999islam/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md aminul islam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md aminul islam khan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/md aminul islam khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md aminul islam khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaminulkhan&show_icons=true&locale=en&layout=compact" alt="devaminulkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaminulkhan&show_icons=true&locale=en" alt="devaminulkhan" /></p>
-<button ><a href="https://dev.to/devaminulkhan" target="blank" color"green">Click To Connect With Me</a></button>
+<button ><a href="https://www.freelancer.com/u/devAminulkhan" target="_blank" >Click To Connect With Me</a></button>
 
 
